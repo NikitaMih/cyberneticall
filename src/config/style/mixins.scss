@@ -1,0 +1,17 @@
+@import './variables.scss';
+
+@mixin btn {
+    align-items: center;
+    background-color: $blue;
+    border: none;
+    color:$white;
+    cursor: pointer;
+    display: flex;
+    font-weight: 400;
+    justify-content: center;
+    text-transform: uppercase;
+
+    &:hover {
+        background-color: $dark-blue;
+    }
+}

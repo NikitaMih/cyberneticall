@@ -1,0 +1,19 @@
+@import '../../config/style/variables.scss';
+
+.card {
+    left: 20px;
+    position: absolute;
+    top: 60px;
+    width: 100%;
+
+    table {
+        width: 100%;
+
+        tr {
+            border: 10px solid $white;
+            display: flex;
+            justify-content: space-between;
+            width: 20%;
+        }
+    }
+}

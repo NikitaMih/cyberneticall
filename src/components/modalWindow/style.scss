@@ -1,0 +1,83 @@
+@import '../../config/style/variables.scss';
+@import '../../config/style/mixins.scss';
+
+.background-window {
+    align-items: center;
+    backdrop-filter: blur(10px);
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 100;
+}
+
+.window {
+    background-color: $white;
+    border: 1px solid $blue;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 1%;
+    text-align: center;
+    width: 30%;
+
+    .btn-cancel {
+        align-items: center;
+        align-self: flex-end;
+        background-color: $red;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 1em;
+        font-weight: bold;
+        height: 25px;
+        margin: 0 0.3em;
+        width: 25px;
+
+        &:hover {
+            background-color: $dark-red; 
+        }
+      }
+
+    &__title {
+        font-size: 20px;
+        margin: 2%;
+    }
+    
+    &__err {
+        color: $red;
+        padding: 2%;
+    }
+
+    &__input{
+        display: flex;
+        justify-content: center;
+
+        button {
+            @include btn;
+
+            border-radius: 3px;
+            margin-left: 3px;
+
+            img {
+                height: 20px;
+                width: 20px;
+            }
+        }
+    }
+
+    .results {
+        margin: 3% auto;
+        width: 70%;
+
+        &__block {
+            display: flex !important;
+            justify-content: space-between !important;
+            margin: 3% 0;
+        }
+    }
+}

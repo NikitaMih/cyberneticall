@@ -1,0 +1,27 @@
+@import '../../config/style/mixins.scss';
+@import '../../config/style/variables.scss';
+
+.close-line {
+    border-bottom: 20px solid $white;
+    padding: 10px;
+}
+
+.open-line {
+    background-color: $white;
+    border-bottom: 200px solid $white;
+    padding: 10px;
+
+}
+
+td {
+    padding: 10px 5px;
+
+    .line-btn {
+        @include btn;
+
+        border-radius: 100%;
+        font-size: 18px;
+        height: 30px;
+        width: 30px;
+    }
+}

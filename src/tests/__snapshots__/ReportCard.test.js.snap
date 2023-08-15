@@ -1,0 +1,311 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CompanyItem Should create CompanyItem with params 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="card"
+      >
+        <table>
+          <tr>
+            <th>
+              Symbol
+            </th>
+            <tb>
+              SPAN
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Latest Price
+            </th>
+            <tb>
+              187
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Avg Total Volume
+            </th>
+            <tb>
+              674
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Week 52 High
+            </th>
+            <tb>
+              376
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Week 52 Low
+            </th>
+            <tb>
+              133
+            </tb>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="card"
+    >
+      <table>
+        <tr>
+          <th>
+            Symbol
+          </th>
+          <tb>
+            SPAN
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Latest Price
+          </th>
+          <tb>
+            187
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Avg Total Volume
+          </th>
+          <tb>
+            674
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Week 52 High
+          </th>
+          <tb>
+            376
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Week 52 Low
+          </th>
+          <tb>
+            133
+          </tb>
+        </tr>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CompanyItem Should create ReportCard with params 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="card"
+      >
+        <table>
+          <tr>
+            <th>
+              Symbol
+            </th>
+            <tb>
+              SPAN
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Latest Price
+            </th>
+            <tb>
+              187
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Avg Total Volume
+            </th>
+            <tb>
+              674
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Week 52 High
+            </th>
+            <tb>
+              376
+            </tb>
+          </tr>
+          <tr>
+            <th>
+              Week 52 Low
+            </th>
+            <tb>
+              133
+            </tb>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="card"
+    >
+      <table>
+        <tr>
+          <th>
+            Symbol
+          </th>
+          <tb>
+            SPAN
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Latest Price
+          </th>
+          <tb>
+            187
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Avg Total Volume
+          </th>
+          <tb>
+            674
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Week 52 High
+          </th>
+          <tb>
+            376
+          </tb>
+        </tr>
+        <tr>
+          <th>
+            Week 52 Low
+          </th>
+          <tb>
+            133
+          </tb>
+        </tr>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
